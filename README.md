@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+
+[![faciladev](https://circleci.com/github/faciladev/project-4.svg?style=svg)](https://app.circleci.com/pipelines/github/faciladev/project-4)
 
 ## Project Overview
 
